@@ -1,0 +1,12 @@
+# Los datos viven en disco, no en Git.
+raw/
+processed/
+
+# Archivos temporales y exportaciones pesadas
+*.zip
+*.bin
+*.i24le
+*.mat
+*.npz
+*.csv
+*.log
