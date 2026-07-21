@@ -1,6 +1,6 @@
-# Catálogo de datos locales
+# Catálogo de datos versionados con LFS
 
-Inventario tomado durante la modularización del 20 de julio de 2026. Los tamaños son aproximados y describen el disco local, no el contenido del remoto.
+Inventario tomado durante la modularización del 20 de julio de 2026. Los tamaños son aproximados. El contenido se conserva en `Github-LFS/repositories/Tesis-datos/objects` y GitHub guarda los punteros.
 
 | Estado | Conjunto | Archivos | Tamaño aproximado |
 |---|---|---:|---:|
@@ -14,4 +14,4 @@ Inventario tomado durante la modularización del 20 de julio de 2026. Los tamañ
 | procesado | Canchita_grupo1_procesado | 1.501 | 0,415 GiB |
 | procesado | Canchita_procesado | 2.014 | 0,530 GiB |
 
-Las carpetas `raw/` y `processed/` se crean al migrar los antiguos directorios `Crudos/` y `procesados/`.
+Las carpetas `raw/` y `processed/` provienen de los antiguos directorios `Crudos/` y `procesados/`. El manifiesto exhaustivo, con ruta, tamaño y SHA-256 por archivo, está en `Github-LFS/repositories/Tesis-datos/manifests/files.csv`.

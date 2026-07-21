@@ -1,12 +1,6 @@
-# Los datos viven en disco, no en Git.
-raw/
-processed/
-
-# Archivos temporales y exportaciones pesadas
-*.zip
-*.bin
-*.i24le
-*.mat
-*.npz
-*.csv
-*.log
+# Los datos versionados de raw/ y processed/ se guardan mediante Git LFS.
+# Ignorar solamente residuos temporales, no extensiones de datos completas.
+*.tmp
+*.partial
+*.part
+~$*
