@@ -17,7 +17,7 @@ $repoRoot = (Resolve-Path -LiteralPath (Join-Path $PSScriptRoot '..')).Path
 if ($All) {
     & git -C $repoRoot lfs checkout
 } else {
-    & git -C $repoRoot lfs checkout --include $Include
+    & git -C $repoRoot lfs checkout $Include
 }
 
 if ($LASTEXITCODE -ne 0) {
