@@ -1,0 +1,2 @@
+capture_order,capture_id,capture_label,capture_source,created_at,fs_hz,n_slaves,raw_count,filt_count,sample_offset,y_offset_mv,dc_removed_on_preserve,active_node_indices,metadata_file,visible
+1,preserved_1784937393851_1,Start 1,preserved,2026-07-24T23:56:33.851Z,2604,1,7820,7820,0,0,0,1,captures/001_start_1/metadata.json,1

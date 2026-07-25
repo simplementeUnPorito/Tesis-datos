@@ -1,0 +1,9 @@
+node_index,node_name,type,role,geo_number,slave_id,pcb_id,mac,fs_hz,fs_known,fs_exact_known,adc_config,adc_range_v,adc_counts_per_volt,hw_class,hw_type,position_m,hammer_offset_m,connected,visible,raw_count,filt_count,pga_code,pga_gain,vdac_byte,cal_vdacs,cal_vdac_details,psoc_ok,invert_signal,fir_cmd
+1,Esclavo 1,Geo1,geo,1,S1,S1,C8:2E:18:68:5F:6C,,0,0,1,2.5,52428.8,0,GEO,0,0,1,1,1320,1320,0,1,128,"[null,null,null,null]","[null,null,null,null]",1,0,
+2,Esclavo 2,Esclavo 2,unknown,,S2,S2,,,0,0,1,2.5,52428.8,255,UNKNOWN,0,0,0,0,0,0,0,1,128,"[null,null,null,null]","[null,null,null,null]",,0,
+3,Esclavo 3,Esclavo 3,unknown,,S3,S3,,,0,0,1,2.5,52428.8,255,UNKNOWN,0,0,0,0,0,0,0,1,128,"[null,null,null,null]","[null,null,null,null]",,0,
+4,Esclavo 4,Esclavo 4,unknown,,S4,S4,,,0,0,1,2.5,52428.8,255,UNKNOWN,0,0,0,0,0,0,0,1,128,"[null,null,null,null]","[null,null,null,null]",,0,
+5,Esclavo 5,Esclavo 5,unknown,,S5,S5,,,0,0,1,2.5,52428.8,255,UNKNOWN,0,0,0,0,0,0,0,1,128,"[null,null,null,null]","[null,null,null,null]",,0,
+6,Esclavo 6,Esclavo 6,unknown,,S6,S6,,,0,0,1,2.5,52428.8,255,UNKNOWN,0,0,0,0,0,0,0,1,128,"[null,null,null,null]","[null,null,null,null]",,0,
+7,Esclavo 7,Esclavo 7,unknown,,S7,S7,,,0,0,1,2.5,52428.8,255,UNKNOWN,0,0,0,0,0,0,0,1,128,"[null,null,null,null]","[null,null,null,null]",,0,
+8,Esclavo 8,Esclavo 8,unknown,,S8,S8,,,0,0,1,2.5,52428.8,255,UNKNOWN,0,0,0,0,0,0,0,1,128,"[null,null,null,null]","[null,null,null,null]",,0,

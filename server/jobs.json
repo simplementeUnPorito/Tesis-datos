@@ -1,0 +1,49 @@
+{
+  "updated_at": "2026-07-24T23:56:35+00:00",
+  "jobs": [
+    {
+      "job_id": "20260724_203824_muestra_20260724_202158",
+      "filename": "muestra_20260724_202158.zip",
+      "bytes": 829936,
+      "state": "listo",
+      "created_at": "2026-07-24T23:38:24+00:00",
+      "finished_at": "2026-07-24T23:38:24+00:00",
+      "folder": "20260724_203824_muestra_20260724_202158",
+      "captures": 0,
+      "nodes": 0,
+      "shots": 0,
+      "picks": 0,
+      "error": "",
+      "log": [
+        "2026-07-24T23:38:24+00:00 ZIP guardado en 20260724_203824_muestra_20260724_202158.zip (829936 B)",
+        "2026-07-24T23:38:24+00:00 descomprimiendo",
+        "2026-07-24T23:38:24+00:00 extraído en raw/20260724_203824_muestra_20260724_202158",
+        "2026-07-24T23:38:24+00:00 descubriendo el dataset",
+        "2026-07-24T23:38:24+00:00 0 disparos en esta carpeta (0 en total)",
+        "2026-07-24T23:38:24+00:00 sin disparos válidos (¿falta hammer o geo?)"
+      ]
+    },
+    {
+      "job_id": "20260724_205635_muestraXDXD_20260724_205634",
+      "filename": "muestraXDXD_20260724_205634.zip",
+      "bytes": 4707243,
+      "state": "listo",
+      "created_at": "2026-07-24T23:56:35+00:00",
+      "finished_at": "2026-07-24T23:56:35+00:00",
+      "folder": "20260724_205635_muestraXDXD_20260724_205634",
+      "captures": 1,
+      "nodes": 1,
+      "shots": 0,
+      "picks": 0,
+      "error": "",
+      "log": [
+        "2026-07-24T23:56:35+00:00 ZIP guardado en 20260724_205635_muestraXDXD_20260724_205634.zip (4707243 B)",
+        "2026-07-24T23:56:35+00:00 descomprimiendo",
+        "2026-07-24T23:56:35+00:00 extraído en raw/20260724_205635_muestraXDXD_20260724_205634",
+        "2026-07-24T23:56:35+00:00 descubriendo el dataset",
+        "2026-07-24T23:56:35+00:00 0 disparos en esta carpeta (0 en total)",
+        "2026-07-24T23:56:35+00:00 1 captura(s), 1 nodo(s) catalogados; sin picking (falta el martillo)"
+      ]
+    }
+  ]
+}
