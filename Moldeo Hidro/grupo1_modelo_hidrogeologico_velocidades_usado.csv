@@ -1,0 +1,8 @@
+top_m,bottom_m,lithology,rho_kgm3,Vp_ms,Vs_ms
+0.0,1.0,suelo residual saturado / capa vegetal,1800,600,95
+1.0,2.1,nivel fino húmedo arcilloso,1850,750,105
+2.1,4.2,sedimento areno-cuarzoso fino-medio,1900,900,145
+4.2,8.0,arena limosa/arcillosa saturada,1950,1150,185
+8.0,24.0,secuencia cuarzosa Grupo Asunción,2000,1450,240
+24.0,50.0,arenisca cuarzosa poco cementada,2100,1750,330
+50.0,inf,semiespacio más competente,2150,2000,400
