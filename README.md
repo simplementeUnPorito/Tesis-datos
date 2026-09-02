@@ -8,6 +8,8 @@ Este repositorio versiona el índice de las mediciones del sistema MASW mediante
 Tesis-datos/
 ├── raw/        # capturas originales, inmutables; contenido LFS
 ├── processed/  # resultados y exportaciones; contenido LFS
+├── server/     # capturas/artefactos asociados al servidor de campo
+├── Moldeo Hidro/ # conjunto heredado de modelado hidrogeológico
 ├── scripts/    # configuración e hidratación del folderstore
 └── CATALOGO.md # inventario de conjuntos de datos
 ```
@@ -51,3 +53,7 @@ Los archivos quedan como punteros hasta hidratar el conjunto requerido:
 4. Ejecutar el configurador antes de agregar datos para que los bytes entren directamente en OneDrive.
 5. No ejecutar `git lfs prune`: `lfs.storage` apunta al folderstore compartido y esa operación podría borrar el almacén remoto.
 6. Actualizar el manifiesto central de `Github-LFS` después de agregar o retirar objetos.
+
+`CATALOGO.md` es la autoridad para saber qué conjuntos están documentados. La
+mera presencia de una carpeta bajo `raw/`, `processed/` o `server/` no implica
+que sus unidades, procedencia o validez experimental estén verificadas.
