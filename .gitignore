@@ -4,3 +4,9 @@
 *.partial
 *.part
 ~$*
+
+# Datos de banco: se generan probando el pipeline sobre la mesa y no son datos
+# de campana. Se versiona solo el README que explica que es esto; las capturas
+# son descartables y no tienen que entrar al repo de datos buenos.
+lab/*
+!lab/README.md
