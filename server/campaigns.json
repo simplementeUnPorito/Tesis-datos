@@ -1,7 +1,7 @@
 {
   "campaigns": {
     "Canchita": {
-      "enabled": true
+      "enabled": false
     },
     "Canchita_2": {
       "enabled": true
@@ -10,7 +10,7 @@
       "enabled": true
     },
     "Canchiga": {
-      "enabled": true
+      "enabled": false
     }
   }
 }
