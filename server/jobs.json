@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T20:53:49+00:00",
+  "updated_at": "2026-10-08T11:59:03+00:00",
   "jobs": [
     {
       "id": "20260724_203824_muestra_20260724_202158",
@@ -14,6 +14,7 @@
       "started_at": "",
       "finished_at": "2026-07-24T23:38:24+00:00",
       "folder": "20260724_203824_muestra_20260724_202158",
+      "campaign": "",
       "captures": 0,
       "nodes": 0,
       "shots": 0,
@@ -43,6 +44,7 @@
       "started_at": "",
       "finished_at": "2026-07-24T23:56:35+00:00",
       "folder": "20260724_205635_muestraXDXD_20260724_205634",
+      "campaign": "",
       "captures": 1,
       "nodes": 1,
       "shots": 0,
@@ -72,6 +74,7 @@
       "started_at": "2026-10-07T20:30:58+00:00",
       "finished_at": "2026-10-07T20:31:00+00:00",
       "folder": "20261007_173058_2066fab103ca",
+      "campaign": "laboratorio",
       "captures": 1,
       "nodes": 1,
       "shots": 0,
@@ -86,8 +89,7 @@
         "2026-10-07T20:30:58+00:00 descubriendo el dataset",
         "2026-10-07T20:30:59+00:00 0 disparos en esta carpeta (194 en total)",
         "2026-10-07T20:31:00+00:00 1 captura(s), 1 nodo(s) catalogados; sin picking (falta el martillo)"
-      ],
-      "campaign": "laboratorio"
+      ]
     },
     {
       "id": "20261007_173631_865c9c9f4ca0",
@@ -102,6 +104,7 @@
       "started_at": "2026-10-07T20:36:31+00:00",
       "finished_at": "2026-10-07T20:36:33+00:00",
       "folder": "20261007_173631_865c9c9f4ca0",
+      "campaign": "laboratorio",
       "captures": 1,
       "nodes": 1,
       "shots": 0,
@@ -116,8 +119,7 @@
         "2026-10-07T20:36:31+00:00 descubriendo el dataset",
         "2026-10-07T20:36:33+00:00 0 disparos en esta carpeta (194 en total)",
         "2026-10-07T20:36:33+00:00 1 captura(s), 1 nodo(s) catalogados; sin picking (falta el martillo)"
-      ],
-      "campaign": "laboratorio"
+      ]
     },
     {
       "id": "20261007_173632_5e10b23959e6",
@@ -132,6 +134,7 @@
       "started_at": "2026-10-07T20:36:33+00:00",
       "finished_at": "2026-10-07T20:36:34+00:00",
       "folder": "20261007_173632_5e10b23959e6",
+      "campaign": "laboratorio",
       "captures": 1,
       "nodes": 1,
       "shots": 0,
@@ -146,8 +149,7 @@
         "2026-10-07T20:36:33+00:00 descubriendo el dataset",
         "2026-10-07T20:36:34+00:00 0 disparos en esta carpeta (194 en total)",
         "2026-10-07T20:36:34+00:00 1 captura(s), 1 nodo(s) catalogados; sin picking (falta el martillo)"
-      ],
-      "campaign": "laboratorio"
+      ]
     },
     {
       "id": "20261007_175348_4b1ffd3cd632",
@@ -162,6 +164,7 @@
       "started_at": "2026-10-07T20:53:48+00:00",
       "finished_at": "2026-10-07T20:53:49+00:00",
       "folder": "20261007_175348_4b1ffd3cd632",
+      "campaign": "laboratorio",
       "captures": 2,
       "nodes": 2,
       "shots": 0,
@@ -176,8 +179,97 @@
         "2026-10-07T20:53:48+00:00 descubriendo el dataset",
         "2026-10-07T20:53:49+00:00 0 disparos en esta carpeta (194 en total)",
         "2026-10-07T20:53:49+00:00 2 captura(s), 2 nodo(s) catalogados; sin picking (falta el martillo)"
-      ],
-      "campaign": "laboratorio"
+      ]
+    },
+    {
+      "id": "20261007_191703_d00a70e9261a",
+      "job_id": "20261007_191703_d00a70e9261a",
+      "kind": "ingest",
+      "filename": "muestraPrueba_20261007_191702.zip",
+      "bytes": 8382055,
+      "state": "listo",
+      "stage": "complete",
+      "progress": 1.0,
+      "created_at": "2026-10-07T22:17:03+00:00",
+      "started_at": "2026-10-07T22:17:03+00:00",
+      "finished_at": "2026-10-07T22:17:03+00:00",
+      "folder": "20261007_191703_d00a70e9261a",
+      "campaign": "laboratorio",
+      "captures": 2,
+      "nodes": 2,
+      "shots": 0,
+      "picks": 0,
+      "error": "",
+      "sha256": "d00a70e9261aab827ec83ab8a54ab3644cb8965fb0d08d271017da7030c1e502",
+      "duplicate_of": "",
+      "log": [
+        "2026-10-07T22:17:03+00:00 ZIP guardado en 20261007_191703_d00a70e9261a.zip (8382055 B, sha256 d00a70e9261a)",
+        "2026-10-07T22:17:03+00:00 validando y descomprimiendo",
+        "2026-10-07T22:17:03+00:00 extraído en raw/laboratorio/20261007_191703_d00a70e9261a",
+        "2026-10-07T22:17:03+00:00 descubriendo el dataset",
+        "2026-10-07T22:17:03+00:00 0 disparos en esta carpeta (0 en total)",
+        "2026-10-07T22:17:03+00:00 2 captura(s), 2 nodo(s) catalogados; sin picking (falta el martillo)"
+      ]
+    },
+    {
+      "id": "20261008_084510_468d36613be5",
+      "job_id": "20261008_084510_468d36613be5",
+      "kind": "ingest",
+      "filename": "muestra_20261008_084509.zip",
+      "bytes": 24358017,
+      "state": "listo",
+      "stage": "complete",
+      "progress": 1.0,
+      "created_at": "2026-10-08T11:45:10+00:00",
+      "started_at": "2026-10-08T11:45:10+00:00",
+      "finished_at": "2026-10-08T11:45:10+00:00",
+      "folder": "20261008_084510_468d36613be5",
+      "campaign": "laboratorio",
+      "captures": 3,
+      "nodes": 6,
+      "shots": 0,
+      "picks": 0,
+      "error": "",
+      "sha256": "468d36613be58f548b5fa6619ba2ef6c119778f947af95f0ba5fce98b2b5e22d",
+      "duplicate_of": "",
+      "log": [
+        "2026-10-08T11:45:10+00:00 ZIP guardado en 20261008_084510_468d36613be5.zip (24358017 B, sha256 468d36613be5)",
+        "2026-10-08T11:45:10+00:00 validando y descomprimiendo",
+        "2026-10-08T11:45:10+00:00 extraído en raw/laboratorio/20261008_084510_468d36613be5",
+        "2026-10-08T11:45:10+00:00 descubriendo el dataset",
+        "2026-10-08T11:45:10+00:00 0 disparos en esta carpeta (0 en total)",
+        "2026-10-08T11:45:10+00:00 3 captura(s), 6 nodo(s) catalogados; sin picking (falta el martillo)"
+      ]
+    },
+    {
+      "id": "20261008_085903_fde93512f357",
+      "job_id": "20261008_085903_fde93512f357",
+      "kind": "ingest",
+      "filename": "muestra_20261008_085902.zip",
+      "bytes": 39588550,
+      "state": "listo",
+      "stage": "complete",
+      "progress": 1.0,
+      "created_at": "2026-10-08T11:59:03+00:00",
+      "started_at": "2026-10-08T11:59:03+00:00",
+      "finished_at": "2026-10-08T11:59:03+00:00",
+      "folder": "20261008_085903_fde93512f357",
+      "campaign": "Prueba1",
+      "captures": 5,
+      "nodes": 10,
+      "shots": 0,
+      "picks": 0,
+      "error": "",
+      "sha256": "fde93512f3570b64c5fb0358132c04e910cb85d005b4e7f7f0769e87ac5fa7b9",
+      "duplicate_of": "",
+      "log": [
+        "2026-10-08T11:59:03+00:00 ZIP guardado en 20261008_085903_fde93512f357.zip (39588550 B, sha256 fde93512f357)",
+        "2026-10-08T11:59:03+00:00 validando y descomprimiendo",
+        "2026-10-08T11:59:03+00:00 extraído en raw/Prueba1/20261008_085903_fde93512f357",
+        "2026-10-08T11:59:03+00:00 descubriendo el dataset",
+        "2026-10-08T11:59:03+00:00 0 disparos en esta carpeta (0 en total)",
+        "2026-10-08T11:59:03+00:00 5 captura(s), 10 nodo(s) catalogados; sin picking (falta el martillo)"
+      ]
     }
   ]
 }
