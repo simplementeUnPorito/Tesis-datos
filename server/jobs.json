@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T11:59:03+00:00",
+  "updated_at": "2026-10-16T21:54:32+00:00",
   "jobs": [
     {
       "id": "20260724_203824_muestra_20260724_202158",
@@ -148,7 +148,8 @@
         "2026-10-07T20:36:33+00:00 extraído en raw/20261007_173632_5e10b23959e6",
         "2026-10-07T20:36:33+00:00 descubriendo el dataset",
         "2026-10-07T20:36:34+00:00 0 disparos en esta carpeta (194 en total)",
-        "2026-10-07T20:36:34+00:00 1 captura(s), 1 nodo(s) catalogados; sin picking (falta el martillo)"
+        "2026-10-07T20:36:34+00:00 1 captura(s), 1 nodo(s) catalogados; sin picking (falta el martillo)",
+        "2026-10-16T21:54:07+00:00 reintento idempotente recibido; se reutiliza este trabajo"
       ]
     },
     {
@@ -269,6 +270,36 @@
         "2026-10-08T11:59:03+00:00 descubriendo el dataset",
         "2026-10-08T11:59:03+00:00 0 disparos en esta carpeta (0 en total)",
         "2026-10-08T11:59:03+00:00 5 captura(s), 10 nodo(s) catalogados; sin picking (falta el martillo)"
+      ]
+    },
+    {
+      "id": "20261016_185432_d8ad4b713e63",
+      "job_id": "20261016_185432_d8ad4b713e63",
+      "kind": "ingest",
+      "filename": "captura.zip",
+      "bytes": 1039338,
+      "state": "listo",
+      "stage": "complete",
+      "progress": 1.0,
+      "created_at": "2026-10-16T21:54:32+00:00",
+      "started_at": "2026-10-16T21:54:32+00:00",
+      "finished_at": "2026-10-16T21:54:32+00:00",
+      "folder": "20261016_185432_d8ad4b713e63",
+      "campaign": "Prueba1",
+      "captures": 1,
+      "nodes": 1,
+      "shots": 0,
+      "picks": 0,
+      "error": "",
+      "sha256": "d8ad4b713e6371022c7b9305b1dbfc29b634ab464c1554913a641793fd8bbed7",
+      "duplicate_of": "",
+      "log": [
+        "2026-10-16T21:54:32+00:00 ZIP guardado en 20261016_185432_d8ad4b713e63.zip (1039338 B, sha256 d8ad4b713e63)",
+        "2026-10-16T21:54:32+00:00 validando y descomprimiendo",
+        "2026-10-16T21:54:32+00:00 extraído en raw/Prueba1/20261016_185432_d8ad4b713e63",
+        "2026-10-16T21:54:32+00:00 descubriendo el dataset",
+        "2026-10-16T21:54:32+00:00 0 disparos en esta carpeta (0 en total)",
+        "2026-10-16T21:54:32+00:00 1 captura(s), 1 nodo(s) catalogados; sin picking (falta el martillo)"
       ]
     }
   ]
