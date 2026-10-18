@@ -1,19 +1,22 @@
 {
   "campaigns": {
     "Canchita": {
-      "enabled": true
+      "enabled": false
     },
     "Canchita_2": {
-      "enabled": true
+      "enabled": false
     },
     ".": {
-      "enabled": true
+      "enabled": false
     },
     "Canchiga": {
-      "enabled": true
+      "enabled": false
     },
     "laboratorio": {
       "enabled": true
+    },
+    "Prueba1": {
+      "enabled": false
     }
   }
 }
