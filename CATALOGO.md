@@ -12,6 +12,7 @@ Inventario tomado durante la modularización del 20 de julio de 2026. Los tamañ
 | crudo | Osciloscopio_calibracion_2026-07-21 | 157 | 0,010 GiB |
 | crudo | Osciloscopio_descartado_2026-07-20_BP_43k | 156 | 0,018 GiB |
 | crudo | Osciloscopio_verificacion_calibracion_2026-07-21 | 182 | 0,011 GiB |
+| crudo | laboratorio/ruido_sd_20261019 (ruido de la SD: volcados MUX, osciloscopio, bitácora) | 616 | 0,066 GiB |
 | procesado | Canchiga | 3 | <0,001 GiB |
 | procesado | Canchita | 9 | 0,006 GiB |
 | procesado | Canchita_2 | 1 | <0,001 GiB |
